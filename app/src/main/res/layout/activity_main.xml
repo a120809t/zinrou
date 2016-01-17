@@ -26,4 +26,10 @@
         android:layout_centerHorizontal="true"
         android:layout_marginTop="91dp"
         android:onClick="start" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hoge"
+        android:textColor="#123456" />
 </RelativeLayout>
